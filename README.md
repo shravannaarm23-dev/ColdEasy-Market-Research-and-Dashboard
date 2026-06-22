@@ -1,7 +1,7 @@
 # ColdEasy Market Research and Power BI Dashboard
 
 ## Overview
-This repository contains a market research case study and a Power BI dashboard developed for the ColdEasy Technology (RuTAG Project). The analysis focuses on competitive benchmarking, customer segmentation, and strategic recommendations for low-cost cold storage solutions in rural supply chains.
+This repository contains a market research case study and a Power BI dashboard developed for the ColdEasy Technology. The analysis focuses on competitive benchmarking, customer segmentation, and strategic recommendations for low-cost cold storage solutions in rural supply chains.
 
 ## Objectives
 - Evaluate the market potential for ColdEasy Technology.
@@ -44,7 +44,6 @@ This repository contains a market research case study and a Power BI dashboard d
 
 ## Author
 **Shravan N V**
-PGDM-ABM | ICAR-NAARM
 
 LinkedIn:
 https://www.linkedin.com/in/shravannv112
