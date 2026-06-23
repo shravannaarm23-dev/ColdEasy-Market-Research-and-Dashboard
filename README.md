@@ -18,6 +18,8 @@ This repository contains a market research case study and a Power BI dashboard d
 ### 📊 Power BI Dashboard
 - Dashboard- Cold Easy.pbix
 - Interactive dashboard for comparative analysis.
+- <img width="1547" height="892" alt="Screenshot 2026-06-22 132328" src="https://github.com/user-attachments/assets/25df9bf0-9f6f-4be5-bb84-58c2cab412fa" />
+
 
 ### 📈 Dataset
 - ColdEasy_PowerBI_Data.xlsx
